@@ -1,4 +1,4 @@
-// Modified Fripp-in-a-boc patch from https://github.com/antisvin
+// Modified Fripp-in-a-box patch from https://github.com/antisvin
 // Changes:
 //   * Looper moves to playback after first setting of loop
 //   * Swapped controls around to use Knob A for mix. 
